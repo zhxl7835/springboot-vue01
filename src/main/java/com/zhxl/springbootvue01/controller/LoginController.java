@@ -19,6 +19,5 @@ public class LoginController {
         System.out.printf("用户密码" + user.getPassword());
         return Boolean.TRUE;
     }
-
 }
 
